@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+To love at all is to be vulnerable.
 Use the left arrow to go back!
